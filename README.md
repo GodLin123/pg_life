@@ -5,6 +5,7 @@ tech stack:
  -CSS
  -BOOTSTARP
  -JAVASCRIPT
+ -React JS
  -PHP
 
  
